@@ -99,3 +99,5 @@ python main.py
 
 ---
 
+CHÚ Ý DO FILE BEST.PT CÓ DUNG LƯỢNG QUÁ LỚN KHÔNG THỂ UPLOAD NÊN CẢM PHIỀN DOWNLOAD TỪ THƯ MỤC GG DRIVE NÀY XUỐNG . XIN CẢM ƠN 
+https://drive.google.com/drive/folders/11lqcDDY1goSNrXOSpNzKPcQqJ8uEikwv?usp=sharing
